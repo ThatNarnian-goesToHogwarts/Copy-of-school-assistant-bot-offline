@@ -1,0 +1,7 @@
+{
+  "name": "Copy of School Assistant Bot",
+  "description": "A conversational AI bot for a school that can answer questions, provide directions, and describe images using facial recognition concepts. It features voice interaction with text-to-speech and speech-to-text capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
